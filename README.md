@@ -47,9 +47,9 @@
 
 | 仓库名称 | 仓库介绍 | 状态 | 权重 |
 | - | - | - | - |
-|cxl-vue-template | 基于vue3实现后台管理脚手架 | 首要维护中 |🩸🩸🩸🩸🩸 |
-|cxl-node-template | 基于node.js实现接口快速开发脚手架 | 维护中 | 🩸🩸🩸 |
-|cxl-ui | 基于vue3实现组件库 | 维护中 |🩸|
+|🎆cxl-vue-template | 基于vue3实现后台管理脚手架 | 首要维护中 |🩸🩸🩸🩸🩸 |
+|🌙cxl-node-template | 基于node.js实现接口快速开发脚手架 | 维护中 | 🩸🩸🩸 |
+|✨cxl-ui | 基于vue3实现组件库 | 维护中 |🩸|
 |cxl-uniapp | 基于uniapp实现快速开发脚手架 | 维护中| 🩸🩸|
 
 
