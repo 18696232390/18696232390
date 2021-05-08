@@ -42,18 +42,14 @@
 </p>
 
 
-<h3>目前主要维(SuiBian)护(WanWan)项目</h3>
+<h3>目前主要维护项目</h3>
 
 
 | 仓库名称 | 仓库介绍 | 状态 | 权重 |
 | - | - | - | - |
 |🎆cxl-vue-template | 基于vue3实现后台管理脚手架 | 首要维护中 |🩸🩸🩸🩸🩸 |
 |🌙cxl-node-template | 基于node.js实现接口快速开发脚手架 | 维护中 | 🩸🩸🩸 |
-|✨cxl-ui | 基于vue3实现组件库 | 维护中 |🩸|
-|cxl-uniapp | 基于uniapp实现快速开发脚手架 | 维护中| 🩸🩸|
 
-
-<h8>为了防止某些云程序员，本人不再fork他人项目，仅star或浏览器收藏以便后续学习参考。本人仓库里代码都是随便玩玩写的，勿杠，放尊重！！</h8>
 
 <details>
 <summary>Click for GitHub Stats</summary>
