@@ -14,36 +14,27 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white" />
+   <img alt="macos" src="https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff" />
+  <img alt="vuejs" src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff" />
 
-[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 
-[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
-[![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
-[![](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
-[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
-[![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 
-[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
-[![](https://img.shields.io/badge/-Java-2496ED?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 </p>
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=18696232390&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### 你好，世界 👋
+### hello world 👋
 
 - :orange_book: Focusing on Java & Web
 - :hammer: Creator of applications and frameworks and coder
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
 
-### 热门项目
+### my project
 <p>
 <a href="https://github.com/18696232390/cxl-node-template">
   <img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=18696232390&repo=cxl-node-template&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=343434" />
@@ -52,9 +43,9 @@
 </p>
 
 
-
+### about me
 <p>
-- :我的博客 [点我直达](https://xiaolongda.blog.csdn.net/)
+- :我的博客 (https://xiaolongda.blog.csdn.net/)
 </p>
 
 
